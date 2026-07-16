@@ -9,7 +9,7 @@ Uptime: .......... 23 yrs · Germany
 Shell: ........... Windows Powershell · zsh · Claude Code
 Editor: .......... VS Code · Cursor
 
-Languages.Code: .. C#, C++ · Python · Rust · Java, TypeScript · JavaScript
+Languages.Code: .. C#, C++ · Python · Rust · Java · SQL · TypeScript · JavaScript
 Languages.Web: ... Next.js · React · Node.js · GSAP
 Languages.Style: . HTML · CSS · Tailwind · Markdown
 Languages.Real: .. German · English
