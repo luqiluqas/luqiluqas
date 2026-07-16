@@ -1,6 +1,6 @@
 ```
 
-lukas@luqas
+@luqas
 -----------
 OS: .............. Windows 11 · Linux · iOs  
 Host: ............ luqas.net
