@@ -17,12 +17,7 @@ Languages.Real: .. Deutsch, English
 Hobbies.Software: . Web Dev, Automation, Agentic AI
 Hobbies.Hardware: . PC Building, Homelab
 
-Certificates.Antrophic: Claude 101, Claude Code 101
-
-Contact.Web: ..... luqas.net
-Contact.Mail: .... mail@luqas.net
-Contact.X: ....... @luqiluqas
-Contact.Discord: . luqas
+Certificates.Antrophic: Claude 101, Claude Code 101, Claude Platform 101
 
 Interests: ....... Tech · Gaming · Crypto
 ```
