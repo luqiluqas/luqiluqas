@@ -17,11 +17,8 @@ Languages.Real: .. German · English
 Hobbies.Software: . Web Dev · Automation · Agentic AI
 Hobbies.Hardware: . PC Building · Homelab
 
-Certificates.Antrophic: Claude 101 · Claude Code 101 · Claude Platform 101 · Introduction to Claude Cowork · Claude Code in Action · AI Fluency: Framework & Foundations
-
-Interests: ....... Tech · Gaming · Crypto
+Certificates.Antrophic: Claude 101 · Claude Code 101 · Claude Platform 101 · Introduction to Claude Cowork · Claude Code in Action · AI Fluency: Framework & Foundations · Building with the Claude API
 ```
-
 <p align="center">
   <a href="https://luqas.net"><img src="https://img.shields.io/badge/Website-luqas.net-38bdf8?style=flat-square&logo=vercel&logoColor=white"></a>
   <a href="https://x.com/luqiluqas"><img src="https://img.shields.io/badge/X-@luqiluqas-000000?style=flat-square&logo=x&logoColor=white"></a>
