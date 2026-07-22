@@ -17,7 +17,7 @@ Languages.Real: .. German · English
 Hobbies.Software: . Web Dev · Automation · Agentic AI
 Hobbies.Hardware: . PC Building · Homelab
 
-Certificates.Antrophic: Claude 101 · Claude Code 101 · Claude Platform 101 · Introduction to Claude Cowork · Claude Code in Action
+Certificates.Antrophic: Claude 101 · Claude Code 101 · Claude Platform 101 · Introduction to Claude Cowork · Claude Code in Action · AI Fluency: Framework & Foundations
 
 Interests: ....... Tech · Gaming · Crypto
 ```
